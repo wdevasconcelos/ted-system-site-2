@@ -19,6 +19,10 @@ export const empresa = {
     {
       titulo: "Inovação responsável",
       descricao: "Adoção de novas tecnologias com foco em segurança, sustentabilidade e resultados reais."
+    },
+    {
+      titulo: "Inovação responsável",
+      descricao: "Adoção de novas tecnologias com foco em segurança, sustentabilidade e resultados reais."
     }
   ],
   publicoAlvo:
@@ -50,6 +54,13 @@ export const empresa = {
       descricao: "Especialista em desenvolvimento Full Stack, chegou para ampliar a capacidade de entrega da empresa."
     },
     {
+      nome: "Amy Farrah Fowler",
+      cargo: "Especialista em Bancos de Dados",
+      foto: "/images/amy.jpg",
+      alt: "Foto de Amy Farrah Fowler",
+      descricao: "Responsável por estruturar e proteger os bancos de dados dos clientes."
+    },
+     {
       nome: "Amy Farrah Fowler",
       cargo: "Especialista em Bancos de Dados",
       foto: "/images/amy.jpg",
